@@ -1,0 +1,11 @@
+C:\Users\irich\projects\dotnet\testbook\src\Testbook\obj\Debug\netcoreapp2.2\Testbook.csprojAssemblyReference.cache
+C:\Users\irich\projects\dotnet\testbook\src\Testbook\obj\Debug\netcoreapp2.2\Testbook.csproj.CoreCompileInputs.cache
+C:\Users\irich\projects\dotnet\testbook\src\Testbook\obj\Debug\netcoreapp2.2\Testbook.AssemblyInfoInputs.cache
+C:\Users\irich\projects\dotnet\testbook\src\Testbook\obj\Debug\netcoreapp2.2\Testbook.AssemblyInfo.cs
+C:\Users\irich\projects\dotnet\testbook\src\Testbook\bin\Debug\netcoreapp2.2\Testbook.deps.json
+C:\Users\irich\projects\dotnet\testbook\src\Testbook\bin\Debug\netcoreapp2.2\Testbook.runtimeconfig.json
+C:\Users\irich\projects\dotnet\testbook\src\Testbook\bin\Debug\netcoreapp2.2\Testbook.runtimeconfig.dev.json
+C:\Users\irich\projects\dotnet\testbook\src\Testbook\bin\Debug\netcoreapp2.2\Testbook.dll
+C:\Users\irich\projects\dotnet\testbook\src\Testbook\bin\Debug\netcoreapp2.2\Testbook.pdb
+C:\Users\irich\projects\dotnet\testbook\src\Testbook\obj\Debug\netcoreapp2.2\Testbook.dll
+C:\Users\irich\projects\dotnet\testbook\src\Testbook\obj\Debug\netcoreapp2.2\Testbook.pdb

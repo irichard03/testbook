@@ -1,0 +1,17 @@
+C:\Users\irich\projects\dotnet\testbook\test\Testbook.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\irich\projects\dotnet\testbook\test\Testbook.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\irich\projects\dotnet\testbook\test\Testbook.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\irich\projects\dotnet\testbook\test\Testbook.Tests\bin\Debug\netcoreapp2.2\Testbook.Tests.deps.json
+C:\Users\irich\projects\dotnet\testbook\test\Testbook.Tests\bin\Debug\netcoreapp2.2\Testbook.Tests.runtimeconfig.json
+C:\Users\irich\projects\dotnet\testbook\test\Testbook.Tests\bin\Debug\netcoreapp2.2\Testbook.Tests.runtimeconfig.dev.json
+C:\Users\irich\projects\dotnet\testbook\test\Testbook.Tests\bin\Debug\netcoreapp2.2\Testbook.Tests.dll
+C:\Users\irich\projects\dotnet\testbook\test\Testbook.Tests\bin\Debug\netcoreapp2.2\Testbook.Tests.pdb
+C:\Users\irich\projects\dotnet\testbook\test\Testbook.Tests\obj\Debug\netcoreapp2.2\Testbook.Tests.csprojAssemblyReference.cache
+C:\Users\irich\projects\dotnet\testbook\test\Testbook.Tests\obj\Debug\netcoreapp2.2\Testbook.Tests.csproj.CoreCompileInputs.cache
+C:\Users\irich\projects\dotnet\testbook\test\Testbook.Tests\obj\Debug\netcoreapp2.2\Testbook.Tests.AssemblyInfoInputs.cache
+C:\Users\irich\projects\dotnet\testbook\test\Testbook.Tests\obj\Debug\netcoreapp2.2\Testbook.Tests.AssemblyInfo.cs
+C:\Users\irich\projects\dotnet\testbook\test\Testbook.Tests\obj\Debug\netcoreapp2.2\Testbook.Tests.dll
+C:\Users\irich\projects\dotnet\testbook\test\Testbook.Tests\obj\Debug\netcoreapp2.2\Testbook.Tests.pdb
+C:\Users\irich\projects\dotnet\testbook\test\Testbook.Tests\bin\Debug\netcoreapp2.2\Testbook.dll
+C:\Users\irich\projects\dotnet\testbook\test\Testbook.Tests\bin\Debug\netcoreapp2.2\Testbook.pdb
+C:\Users\irich\projects\dotnet\testbook\test\Testbook.Tests\obj\Debug\netcoreapp2.2\Testbook.Tests.csproj.CopyComplete
